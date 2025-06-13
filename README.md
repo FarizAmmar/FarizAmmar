@@ -3,8 +3,8 @@
 ![Fariz Ammar](img/github-header-image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on PT Tripilar Kreasi Digital
-🌱 I’m currently learning Flutter<br>
+🔭 I’m currently working on PT Tripilar Kreasi Digital <br />
+🌱 I’m currently learning Flutter<br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.ammarsyq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fariz-ammar-4b2a06226) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@f.syaviq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Farizammar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f.ammarsyq11@gmail.com) 
