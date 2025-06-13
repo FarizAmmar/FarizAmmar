@@ -1,5 +1,7 @@
 ## Hi there! I'm Fariz Ammar 👋
 
+![Fariz Ammar](img/github-header-image.png)
+
 # 💫 About Me:
 🔭 I’m currently working on PT Tripilar Kreasi Digital
 🌱 I’m currently learning Dart<br>
