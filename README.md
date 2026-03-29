@@ -1,6 +1,6 @@
 ## Hi there! I'm Fariz Ammar 👋
 
-![Fariz Ammar](img/Banner2.png)
+## ![Fariz Ammar](img/Banner2.png)
 
 # 💫 About Me:
 🔭 I’m currently working on PT Tripilar Kreasi Digital <br />
